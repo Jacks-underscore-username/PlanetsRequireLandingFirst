@@ -4,14 +4,14 @@ Date: 2026-05-31
   Bugfixes:
     - fixed a crash when in creative mode
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.0
-Date: 2026-05-31
-  Features:
-    - first commit
----------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2026-05-31
   Bugfixes:
     - fixed a bug where looking at a surface counted as visiting it.
     - fixed a bug where the game would crash trying to trigger invalid tech.
     - fixed the names of some tech's from mods.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-05-31
+  Features:
+    - first commit
