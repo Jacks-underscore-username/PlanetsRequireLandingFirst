@@ -1,0 +1,37 @@
+{
+    "Lua.diagnostics.globals": [
+        "game",
+        "settings",
+        "script",
+        "storage",
+        "prototypes",
+        "entity",
+        "defines",
+        "data",
+        "rendering",
+        "mods",
+        "log",
+        "util",
+        "table",
+        "serpent",
+        "table_size",
+        "commands",
+        "remote",
+        "__DebugAdapter",
+        "__Profiler"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global"
+    ],
+    "Lua.runtime.version": "Lua 5.2",
+    "factorio.versions": [
+        {
+            "name": "Steam",
+            "factorioPath": "/home/jackc/.steam/steam/steamapps/common/Factorio/bin/x64/factorio"
+        }
+    ],
+    "Lua.workspace.userThirdParty": [
+        "/home/jackc/.config/Code/User/workspaceStorage/41e6149e443aed14c8725767d5848afd/justarandomgeek.factoriomod-debug/sumneko-3rd"
+    ],
+    "Lua.workspace.checkThirdParty": "ApplyInMemory"
+}

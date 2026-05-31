@@ -1,0 +1,20 @@
+{
+  "name": "planets-require-landing-first",
+  "version": "0.0.0",
+  "title": "Planets require landing first",
+  "author": "jacks-underscore-username",
+  "homepage": "",
+  "description": "Locks each planet's trigger tech behind a new \"Land on said planet\" tech.",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age"
+  ],
+  "quality_required": false,
+  "rail_bridges_required": false,
+  "space_travel_required": true,
+  "spoiling_required": false,
+  "freezing_required": false,
+  "segmented_units_required": false,
+  "expansion_shaders_required": false
+}
