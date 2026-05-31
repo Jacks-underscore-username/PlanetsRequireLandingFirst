@@ -1,11 +1,4 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.1
-Date: 2026-05-31
-  Bugfixes:
-    - fixed a bug where looking at a surface counted as visiting it.
-    - fixed a crash when in creative mode
-    - maybe fixed the tags?
----------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-05-31
   Features:
