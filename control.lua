@@ -17,8 +17,7 @@ script.on_event(defines.events.on_player_changed_surface, function(event)
     end
 end)
 
-
-function initializeTech()
+script.on_init(function()
     for _, tech in pairs(game.forces["player"].technologies) do
         local passed = false
         for trigger, _ in pairs(planet_map) do
@@ -43,7 +42,4 @@ function initializeTech()
             tech.researched = true
         end
     end
-end
-
-script.on_load(initializeTech)
-script.on_init(initializeTech)
+end)
